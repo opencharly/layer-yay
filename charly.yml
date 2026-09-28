@@ -1,7 +1,5 @@
-version: 2026.232.0520
 yay:
     candy:
-        version: 2026.144.1443
         description: |
             yay — AUR helper for building Arch User Repository packages
             Downloads the latest yay release binary to /usr/local/bin/yay and
